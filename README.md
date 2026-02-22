@@ -5,7 +5,6 @@
 <p align="center">
 <a href="https://x.com/@Cristino_15" target="blank"><img align="center" src="https://img.shields.io/badge/-black.svg?logo=X&logoColor=white" alt="@cristino_15" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/cristino-oliver-tierraseca-814950333" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cristino-oliver-tierraseca-814950333" height="30" width="40" /></a>
-<a href="https://discord.gg/424294738061950977" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="cristinoot" height="30" width="40" /></a>
 <a href="mailto:olivertierrasecacristino@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/-D14836?logo=gmail&logoColor=white" alt="cristinoot" height="30" width="40" /></a>
 </p>
 
